@@ -6,9 +6,9 @@ This project is a web-based application built using **HTML, CSS, and JavaScript*
 ## 📸 Sample UI  
 Here are some screenshots showcasing the interface:  
 
-![Screenshot 1](WhatsApp%20Image%202025-04-03%20at%2021.25.50_a57f5277.jpg)  
-![Screenshot 2](WhatsApp%20Image%202025-04-03%20at%2021.25.21_7376b828.jpg)  
-![Screenshot 3](WhatsApp%20Image%202025-04-03%20at%2021.24.51_27e137e0.jpg)  
+![UI Screenshot 1](assets/ss1.jpg)  
+![UI Screenshot 2](assets/ss2.jpg)  
+![UI Screenshot 3](assets/ss3.jpg 
 
 ## 🔥 Features  
 - **Responsive Design** – Works on all screen sizes.  
