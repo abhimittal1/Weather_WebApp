@@ -8,7 +8,7 @@ Here are some screenshots showcasing the interface:
 
 ![UI Screenshot 1](assets/ss1.jpg)  
 ![UI Screenshot 2](assets/ss2.jpg)  
-![UI Screenshot 3](assets/ss3.jpg 
+![UI Screenshot 3](assets/ss3.jpg)
 
 ## 🔥 Features  
 - **Responsive Design** – Works on all screen sizes.  
